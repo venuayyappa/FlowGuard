@@ -175,11 +175,6 @@ npm run dev
 - Evaluate TimescaleDB for larger time-series workloads.
 - Expand automated tests and add a continuous integration pipeline.
 
-## Author
-
-**Venu Ayyappa**  
-GitHub: [@venuayyappa](https://github.com/venuayyappa)  
-Repository: [FlowGuard](https://github.com/venuayyappa/FlowGuard)
 
 ## Attribution
 

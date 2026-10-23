@@ -176,6 +176,3 @@ npm run dev
 - Expand automated tests and add a continuous integration pipeline.
 
 
-## Attribution
-
-This project is adapted from the [Customer Experience & Network Analytics Platform](https://github.com/Akash5091/cx-network-analytics-platform). Refer to the upstream repository and its license for the original project's attribution and licensing terms.
